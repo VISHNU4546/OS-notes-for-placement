@@ -1,1 +1,1 @@
-# OS notes for placement
+# OS notes for Interview preparation.
